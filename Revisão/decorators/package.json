@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "name": "decorators",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "rTsc": " tsc",
+    "node": "node app/dist/js/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

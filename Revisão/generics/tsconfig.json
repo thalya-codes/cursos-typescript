@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js",
+        "removeComments": true
+    }, "include": ["app/generics/*"]
+}
